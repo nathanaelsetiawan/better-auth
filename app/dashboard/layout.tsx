@@ -9,7 +9,6 @@ export default function DashboardLayout({
         <div>
             <Header />
             {children}
-            saya buat perubahan disini
         </div>
     )
 }
